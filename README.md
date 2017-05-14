@@ -2,6 +2,7 @@
 
 <details>
 <summary>Synology DiskStation 1815+</summary>
+
   - Synology DS1815+ 
   - upgraded with aftermarket 16GB RAM
   - 8 each Western Digital Red 6TB hard drives
