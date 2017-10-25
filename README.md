@@ -3,11 +3,11 @@
 <details>
 <summary>Synology DiskStation 1815+</summary>
 
-  - Synology DS1815+ 
-  - upgraded with aftermarket 16GB RAM
-  - 8 each Western Digital Red 6TB hard drives
-  - RAID 6 (2 redundant drives)
-  - 32.7 TB Capacity
+- Synology DS1815+ 
+- upgraded with aftermarket 16GB RAM
+- 8 each Western Digital Red 6TB hard drives
+- RAID 6 (2 redundant drives)
+- 32.7 TB Capacity
 </details>
 
 ## Raspbery Pi
@@ -54,10 +54,10 @@
 <details>
 <summary>Skullcandy Hesh 2 Over-Ear Headphones with Mic, Black</summary>
 
-  - Microphone built-in
-  - Over the ear style
-  - Detachable cable
-  - [Amazon](https://www.amazon.com/gp/product/B00J67FC4C/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+- [Amazon](https://www.amazon.com/gp/product/B00J67FC4C/)
+- Microphone built-in
+- Over the ear style
+- Detachable cable
 </details>
 
 ## 2FA Hardware
@@ -78,15 +78,55 @@
 - Challenge-Response
 </details>
 
----
-
 ## Router / Firewall
+
+<details>
+<summary>Ubiquiti Unifi Security Gateway (USG)</summary>
+
+- [Amazon](https://www.amazon.com/Ubiquiti-Unifi-Security-Gateway-USG/dp/B00LV8YZLK/)
+- 3 Gigabit Ethernet ports, CLI management for advanced users
+- 1 million packets per second for 64-byte packets
+- 3 Gbps total line rate for packets 512 bytes or larger
+- Integrated and managed with UniFi Controller v4.x
+- Secure off-site management and monitoring, Silent, fanless operation 
+</details>
+
+<details>
+<summary>Ubiquiti Unifi Cloud Key (UC-CK) </summary>
+
+- [Amazon](https://www.amazon.com/Ubiquiti-Unifi-Cloud-Key-Control/dp/B017T2QB22/)
+- When installed at each deployment site, provide single sign-on management access to all of your sites' networks.
+- No separate software, licensing, hosting, or support fee. 
+
+</details>
 
 ## Wireless Access Point
 
-## LoS Antenea
+<details>
+<summary>Ubiquiti Networks Unifi 802.11ac Dual-Radio PRO Access Point (UAP-AC-PRO-US)</summary>
+
+- [Amazon](https://www.amazon.com/Ubiquiti-Networks-802-11ac-Dual-Radio-UAP-AC-PRO-US/dp/B015PRO512/)
+- 3 Dual-Band Antennas, 3 dBi each
+- Max. Power Consumption: 9W
+- Networking Interface: 2 10/100/1000 Ethernet Ports
+- Power Over Ethernet (POE) support
+- Wi-Fi Standards: 802.11 a/b/g/n/ac  
+</details>
+
 
 ## Switch
+
+<details>
+<summary>Ubiquiti US-8-60W Unifi Switch </summary>
+
+- [Amazon](https://www.amazon.com/dp/B01MU3WUX1/)
+- The US-8-60W is an 8-port gigabit switch with four 802.3af PoE ports.
+- Its auto-sensing PoE ports deliver up to 15.4W of power per port. 
+</details>
+
+---
+
+## LoS Antenna
 
 ## Headphones (Wireless)
 
