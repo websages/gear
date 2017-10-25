@@ -3,11 +3,11 @@
 <details>
 <summary>Synology DiskStation 1815+</summary>
 
-  - Synology DS1815+ 
-  - upgraded with aftermarket 16GB RAM
-  - 8 each Western Digital Red 6TB hard drives
-  - RAID 6 (2 redundant drives)
-  - 32.7 TB Capacity
+- Synology DS1815+ 
+- upgraded with aftermarket 16GB RAM
+- 8 each Western Digital Red 6TB hard drives
+- RAID 6 (2 redundant drives)
+- 32.7 TB Capacity
 </details>
 
 ## Raspbery Pi
@@ -54,10 +54,10 @@
 <details>
 <summary>Skullcandy Hesh 2 Over-Ear Headphones with Mic, Black</summary>
 
-  - Microphone built-in
-  - Over the ear style
-  - Detachable cable
-  - [Amazon](https://www.amazon.com/gp/product/B00J67FC4C/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+- [Amazon](https://www.amazon.com/gp/product/B00J67FC4C/)
+- Microphone built-in
+- Over the ear style
+- Detachable cable
 </details>
 
 ## 2FA Hardware
@@ -89,10 +89,10 @@
 - 3 Gbps total line rate for packets 512 bytes or larger
 - Integrated and managed with UniFi Controller v4.x
 - Secure off-site management and monitoring, Silent, fanless operation 
-- </details>
+</details>
 
 <details>
-<summary>Ubiquiti Unifi Cloud Key - Remote Control Device (UC-CK) </summary>
+<summary>Ubiquiti Unifi Cloud Key (UC-CK) </summary>
 
 - [Amazon](https://www.amazon.com/Ubiquiti-Unifi-Cloud-Key-Control/dp/B017T2QB22/)
 - When installed at each deployment site, provide single sign-on management access to all of your sites' networks.
