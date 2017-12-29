@@ -124,6 +124,18 @@
 - Its auto-sensing PoE ports deliver up to 15.4W of power per port. 
 </details>
 
+
+## Powerline Ethernet Adapter
+
+<details>
+<summary>AV2000 2-Port Gigabit Passthrough Powerline Starter Kit</summary>
+- [Link](http://www.tp-link.com/us/products/details/cat-5509_TL-PA9020P-KIT.html)
+- Great for apartments or other areas you can't/don't want to run ethernet
+- Gets around 950 mbps through a breaker panel, rated at 2000 mbps
+- Optional software lets you manage encryption and name devices
+- Cons: The pass-thru outlet is great, but the other outlet will be blocked
+</details>
+
 ---
 
 ## LoS Antenna
