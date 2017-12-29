@@ -129,6 +129,7 @@
 
 <details>
 <summary>AV2000 2-Port Gigabit Passthrough Powerline Starter Kit</summary>
+
 - [Link](http://www.tp-link.com/us/products/details/cat-5509_TL-PA9020P-KIT.html)
 - Great for apartments or other areas you can't/don't want to run ethernet
 - Gets around 950 mbps through a breaker panel, rated at 2000 mbps
